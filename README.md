@@ -8,7 +8,7 @@
 - Hilt
 - KSP
 - TOML
-- implement a fake SDK to display ads
+- Implement a fake SDK to display ads
 
 
 What remains :
